@@ -1,0 +1,4 @@
+1. 动态生成try4的OptimizedProxyService的java文件，名称为$Proxy{N};
+2. 对java文件进行编译，获得class文件(即byte[])
+3. 重写类加载器，加载生成的临时类，该类实现了原始的接口
+4. 调用构造函数生成对象，即为代理类

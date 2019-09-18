@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/generateMybatisJava/generateMybatisJava.iml" filepath="$PROJECT_DIR$/generateMybatisJava/generateMybatisJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generateMybatisJava/src/main/main2.iml" filepath="$PROJECT_DIR$/generateMybatisJava/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test.iml" filepath="$PROJECT_DIR$/.idea/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generateMybatisJava/user.iml" filepath="$PROJECT_DIR$/generateMybatisJava/user.iml" />
+    </modules>
+  </component>
+</project>
