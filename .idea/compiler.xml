@@ -9,15 +9,13 @@
         <module name="factoryPattern" />
         <module name="generateMybatisJava" />
         <module name="proxy" />
-        <module name="user" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
+    <bytecodeTargetLevel>
       <module name="factoryPattern" target="1.8" />
       <module name="generateMybatisJava" target="1.8" />
       <module name="proxy" target="1.8" />
       <module name="test" target="1.8" />
-      <module name="user" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -4,10 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/factoryPattern/factoryPattern.iml" filepath="$PROJECT_DIR$/factoryPattern/factoryPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/generateMybatisJava/generateMybatisJava.iml" filepath="$PROJECT_DIR$/generateMybatisJava/generateMybatisJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/generateMybatisJava/src/main/main2.iml" filepath="$PROJECT_DIR$/generateMybatisJava/src/main/main2.iml" />
       <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/test.iml" filepath="$PROJECT_DIR$/.idea/test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/generateMybatisJava/user.iml" filepath="$PROJECT_DIR$/generateMybatisJava/user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
     </modules>
   </component>
 </project>
