@@ -12,6 +12,7 @@
         <module>user</module>
         <module>proxy</module>
         <module>proxy</module>
+        <module>factoryPattern</module>
     </modules>
 
     <name>test</name>

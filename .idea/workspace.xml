@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="b0fa8ff8-1914-4dc5-9d71-df058f0fe243" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/proxy/target/" />
+    <ignored path="$PROJECT_DIR$/user/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/generateMybatisJava/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../workspace/cupinn3.2_idea/spring-framework-5.0.x" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/handler/CgLibLoggerHandler.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/handler/TimeInvoker.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/handler/LoggerInvoker.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/QuickDynamicProxyTest.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/handler/CgLibProxyBase.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/CglibProxyTest.java" />
+        <option value="$PROJECT_DIR$/user/src/main/resources/datasource.properties" />
+        <option value="$PROJECT_DIR$/generateMybatisJava/pom.xml" />
+        <option value="$PROJECT_DIR$/generateMybatisJava/src/main/resources/datasource.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven-3.5.0" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="70" />
+    <option name="y" value="23" />
+    <option name="width" value="1210" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.andy.try6" />
+      <recent name="com.andy.try6.handler" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CglibProxyTest">
+    <configuration name="CglibProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.andy.try6.CglibProxyTest" />
+      <module name="proxy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.andy.try6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="QuickDynamicProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.andy.try9.QuickDynamicProxyTest" />
+      <module name="proxy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.andy.try9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.QuickDynamicProxyTest" />
+      <item itemvalue="Application.CglibProxyTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CglibProxyTest" />
+        <item itemvalue="Application.QuickDynamicProxyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0fa8ff8-1914-4dc5-9d71-df058f0fe243" name="Default" comment="" />
+      <created>1568081856213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568081856213</updated>
+      <workItem from="1568081857617" duration="5332000" />
+      <workItem from="1568090468157" duration="616000" />
+      <workItem from="1568766866963" duration="5746000" />
+      <workItem from="1568774271966" duration="8420000" />
+      <workItem from="1568940055353" duration="5150000" />
+      <workItem from="1569024407576" duration="11814000" />
+      <workItem from="1569206829623" duration="249000" />
+      <workItem from="1569207083586" duration="640000" />
+    </task>
+    <task id="LOCAL-00001" summary="代理模式测试及自动生成文件">
+      <created>1568773595035</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568773595035</updated>
+    </task>
+    <task id="LOCAL-00002" summary="代理模式测试及自动生成文件">
+      <created>1568784989188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568784989188</updated>
+    </task>
+    <task id="LOCAL-00003" summary="代理模式测试及自动生成文件">
+      <created>1568786500945</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568786500945</updated>
+    </task>
+    <task id="LOCAL-00004" summary="代理模式测试及自动生成文件">
+      <created>1568787353902</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568787353902</updated>
+    </task>
+    <task id="LOCAL-00005" summary="代理模式测试及自动生成文件">
+      <created>1568790249666</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568790249666</updated>
+    </task>
+    <task id="LOCAL-00006" summary="代理模式测试及自动生成文件">
+      <created>1568790279267</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568790279267</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43744000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="70" y="23" width="1210" height="777" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.42979452" side_tool="true" weight="0.31811264" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.15496576" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49914384" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32977587" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.57020545" visible="true" weight="0.22222222" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31506848" />
+      <window_info anchor="right" id="Database" order="3" weight="0.16181506" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24973376" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991462" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="代理模式测试" />
+    <MESSAGE value="代理模式测试及自动生成文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="代理模式测试及自动生成文件" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try5/DynamicProxyTest.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try9/handler/LoggerInvoker.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/3.2.4/cglib-nodep-3.2.4.jar!/net/sf/cglib/core/AbstractClassGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="136" column="21" selection-start-line="136" selection-start-column="21" selection-end-line="136" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try9/handler/ProxyBase.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/handler/TimeInvoker.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/3.2.4/cglib-nodep-3.2.4.jar!/net/sf/cglib/proxy/Enhancer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="128" column="49" selection-start-line="128" selection-start-column="29" selection-end-line="128" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/handler/LoggerInvoker.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/handler/CgLibProxyBase.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try9/QuickDynamicProxyTest.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/为service加日志及计时功能" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/CglibProxyTest.java" />
+    <entry file="file://$PROJECT_DIR$/user/generateMybatisJava.iml" />
+    <entry file="file://$PROJECT_DIR$/user/src/main/resources/generatorConfig.xml" />
+    <entry file="file://$PROJECT_DIR$/user/src/main/resources/datasource.properties" />
+    <entry file="file://$PROJECT_DIR$/generateMybatisJava/generateMybatisJava.iml" />
+    <entry file="file://$PROJECT_DIR$/generateMybatisJava/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/generateMybatisJava/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/CglibProxyTest.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/CglibProxyTest.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/handler/CgLibProxyBase.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/3.2.4/cglib-nodep-3.2.4.jar!/net/sf/cglib/proxy/Enhancer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="128" column="49" selection-start-line="128" selection-start-column="29" selection-end-line="128" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/handler/LoggerInvoker.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try9/handler/ProxyBase.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/handler/TimeInvoker.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try9/QuickDynamicProxyTest.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/CglibProxyTest.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try5/DynamicProxyTest.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try9/handler/LoggerInvoker.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/3.2.4/cglib-nodep-3.2.4.jar!/net/sf/cglib/core/AbstractClassGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="136" column="21" selection-start-line="136" selection-start-column="21" selection-end-line="136" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try9/handler/ProxyBase.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/handler/TimeInvoker.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/3.2.4/cglib-nodep-3.2.4.jar!/net/sf/cglib/proxy/Enhancer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="128" column="49" selection-start-line="128" selection-start-column="29" selection-end-line="128" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/handler/LoggerInvoker.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/handler/CgLibProxyBase.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/为service加日志及计时功能" />
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try6/CglibProxyTest.java" />
+    <entry file="file://$PROJECT_DIR$/user/generateMybatisJava.iml" />
+    <entry file="file://$PROJECT_DIR$/user/src/main/resources/generatorConfig.xml" />
+    <entry file="file://$PROJECT_DIR$/user/src/main/resources/datasource.properties" />
+    <entry file="file://$PROJECT_DIR$/generateMybatisJava/generateMybatisJava.iml" />
+    <entry file="file://$PROJECT_DIR$/generateMybatisJava/pom.xml" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="209" column="5" lean-forward="true" selection-start-line="209" selection-start-column="5" selection-end-line="209" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/generateMybatisJava/src/main/resources/datasource.properties" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/andy/try9/QuickDynamicProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.andy.try9">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.andy.try9</OriginalElement>
+          <nodes>
+            <node x="0.0" y="75.0">com.andy.try9.handler</node>
+            <node x="0.0" y="0.0">com.andy.try9.QuickDynamicProxyTest</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="30.0" y="114.5" />
+          <SelectedNodes>
+            <node>com.andy.try9.handler</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.andy.try6.CglibProxyTest">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.andy.try6.CglibProxyTest</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.andy.try6.CglibProxyTest</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="2.0" y="77.0" />
+          <SelectedNodes>
+            <node>com.andy.try6.CglibProxyTest</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.andy">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.andy</OriginalElement>
+          <nodes>
+            <node x="" y="">com.andy.try9</node>
+            <node x="" y="">com.andy.try4</node>
+            <node x="" y="">com.andy.try5</node>
+            <node x="" y="">com.andy.user</node>
+            <node x="" y="">com.andy.try6</node>
+            <node x="" y="">com.andy.try1</node>
+            <node x="" y="">com.andy.try2</node>
+            <node x="" y="">com.andy.service</node>
+            <node x="" y="">com.andy.try3</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="137.5" y="208.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>proxy</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
