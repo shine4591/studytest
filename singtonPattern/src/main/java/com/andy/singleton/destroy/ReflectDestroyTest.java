@@ -4,7 +4,8 @@ import com.andy.singleton.lazy.LazyDoubleCheckSingleton;
 
 import java.lang.reflect.Constructor;
 
-public class ReflectDestroySingleton {
+//反射破坏单例示例
+public class ReflectDestroyTest {
 
     public static void main(String[] args) throws Exception {
 //        Class<?> clazz = HungrySingleton.class;
