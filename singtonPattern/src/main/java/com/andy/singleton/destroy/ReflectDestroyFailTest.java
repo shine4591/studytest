@@ -9,39 +9,46 @@ import java.lang.reflect.Constructor;
 public class ReflectDestroyFailTest {
 
     public static void main(String[] args) {
-//        try{
-//            // 先正常执行
-//            Object instanceA = PreventReflectSingleton.getInstance();
-//            System.out.println("instanceA..." + instanceA);
-//        }catch (Exception e){
-//            e.printStackTrace();
-//        }
-//        try{
-//            // 再遭遇破坏
-//            Constructor<?> c = PreventReflectSingleton.class.getDeclaredConstructor();
-//            c.setAccessible(true);
-//            Object instanceB = c.newInstance();
-//            System.out.println("instanceB..." + instanceB);
-//        }catch (Exception e){
-//            e.printStackTrace();
-//        }
-
+        //检查是不是懒加载
         try{
-            // 先遭遇破坏
-            Constructor<?> c = PreventReflectSingleton.class.getDeclaredConstructor();
-            c.setAccessible(true);
-            Object instanceB = c.newInstance();
-            System.out.println("instanceB..." + instanceB);
+            Class.forName("com.andy.singleton.lazy.PreventReflectSingleton");
         }catch (Exception e){
             e.printStackTrace();
         }
+
         try{
-            // 再正常执行
+            // 先正常执行
             Object instanceA = PreventReflectSingleton.getInstance();
             System.out.println("instanceA..." + instanceA);
         }catch (Exception e){
             e.printStackTrace();
         }
+        try{
+            // 再遭遇破坏
+            Constructor<?> c = PreventReflectSingleton.class.getDeclaredConstructor(String.class);
+            c.setAccessible(true);
+            Object instanceB = c.newInstance("fromReflect");
+            System.out.println("instanceB..." + instanceB);
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+
+//        try{
+//            // 先遭遇破坏
+//            Constructor<?> c = PreventReflectSingleton.class.getDeclaredConstructor(String.class);
+//            c.setAccessible(true);
+//            Object instanceB = c.newInstance("fromReflect");
+//            System.out.println("instanceB..." + instanceB);
+//        }catch (Exception e){
+//            e.printStackTrace();
+//        }
+//        try{
+//            // 再正常执行
+//            Object instanceA = PreventReflectSingleton.getInstance();
+//            System.out.println("instanceA..." + instanceA);
+//        }catch (Exception e){
+//            e.printStackTrace();
+//        }
 
     }
 }
