@@ -4,7 +4,6 @@ public class LazyInnerClassSingleton {
 
 
     private LazyInnerClassSingleton() {
-
     }
 
     private static class LazySingletonHolder {

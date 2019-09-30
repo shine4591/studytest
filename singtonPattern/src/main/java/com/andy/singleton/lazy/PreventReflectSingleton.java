@@ -15,7 +15,7 @@ public class PreventReflectSingleton {
         System.out.println("in static ....");
     }
     private PreventReflectSingleton(String fromWhere) {
-        if(LazySingletonHolder.lock != null){
+        if(LazySingletonHolder.lazy != null){
             System.out.println("from...." + fromWhere + " init failed");
             throw new RuntimeException("try to reflect??? no way.....");
         }
@@ -27,7 +27,7 @@ public class PreventReflectSingleton {
             System.out.println("before holder init ....");
         }
         private static final PreventReflectSingleton lazy = new PreventReflectSingleton("lazyHolder");
-        private static final Object lock = new Object();
+
     }
 
     //利用类加载器保障线程安全
