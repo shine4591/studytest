@@ -8,7 +8,6 @@ public class LazyInnerClassSingleton {
 
     private static class LazySingletonHolder {
         private static LazyInnerClassSingleton lazy = new LazyInnerClassSingleton();
-
     }
 
     //利用类加载器保障线程安全
