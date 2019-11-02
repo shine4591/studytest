@@ -3,10 +3,13 @@ package com.andy.myredis.lru;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class LRUmap extends LinkedHashMap {
+/**
+ * 偷懒写法
+ */
+public class LruLinkedHashMap extends LinkedHashMap {
     private int maxElements;
 
-    public LRUmap(int size) {
+    public LruLinkedHashMap(int size) {
         super(size);
         maxElements = size;
     }
