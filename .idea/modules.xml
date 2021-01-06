@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/factoryPattern/factoryPattern.iml" filepath="$PROJECT_DIR$/factoryPattern/factoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generateMybatisJava/generateMybatisJava.iml" filepath="$PROJECT_DIR$/generateMybatisJava/generateMybatisJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prototpe/prototpe.iml" filepath="$PROJECT_DIR$/prototpe/prototpe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redistest/redistest.iml" filepath="$PROJECT_DIR$/redistest/redistest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singtonPattern/singtonPattern.iml" filepath="$PROJECT_DIR$/singtonPattern/singtonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/factoryPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/generateMybatisJava/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/generateMybatisJava/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prototpe/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/redistest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/singtonPattern/src/main/java" charset="UTF-8" />
+  </component>
+</project>

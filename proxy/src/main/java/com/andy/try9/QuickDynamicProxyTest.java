@@ -9,6 +9,7 @@ import com.andy.try9.handler.TimeInvoker;
 public class QuickDynamicProxyTest {
 
     public static void main(String[] args) throws Exception {
+        
         Service s = (Service) ProxyBase.getInvoker(new ServiceImpl(), LoggerInvoker.class, TimeInvoker.class);
         System.out.println(s.getClass().getName());
         s.getUp();
